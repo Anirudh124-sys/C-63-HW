@@ -1,4 +1,4 @@
-mport { StatusBar } from 'expo-status-bar';
+import { StatusBar } from 'expo-status-bar';
 import * as React from 'react';
 import {
   Text,
